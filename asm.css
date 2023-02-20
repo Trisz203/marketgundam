@@ -188,6 +188,27 @@ color: red;
     border-radius: 10px;
     box-shadow: 0 0 15px yellow;
 }
-.dc{
-    text-align: center;
+.chan{
+    position: relative;
+}
+.email{
+    position: absolute;
+    left: 400px;
+    top: 10px;
+}
+.time{
+    position: absolute;
+    right: 600px;
+    top: 10px;
+}
+.dt{
+    position: absolute;
+    left: 600px;
+    top: 10px;
+}
+.qr-code{
+    position: absolute;
+    left: 1000px;
+    top: 10px;
+    width: 200px;
 }
