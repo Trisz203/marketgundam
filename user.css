@@ -1,0 +1,21 @@
+.form_group{
+    margin: 0px;
+    padding: 0 80px 0 80px;
+    font-variant: small-caps;
+}
+.form_control{
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: orange;
+    box-shadow: 0px 0px 10px yellow ;
+}
+.form_nation{
+    background-color: chartreuse;
+    width: 350px;
+    box-shadow: 0px 0px 10px red;
+}
+.form_note{
+    background: url(images/h2.jfif) ;
+    background-size: 80px 80px;
+    border-radius: 0px 20px 0px 20px ;
+}
